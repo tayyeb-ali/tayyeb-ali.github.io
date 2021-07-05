@@ -133,11 +133,14 @@ dt {
     clear: both;
     width: 150px;
     float: left;
+    text-align: left;
 }
 
 dd {
     display: block;
     float: left;
+    margin-inline-start: 40px;
+    margin: 0;
 }
 
 blockquote {
