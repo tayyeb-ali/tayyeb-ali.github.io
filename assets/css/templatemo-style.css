@@ -36,7 +36,7 @@ textarea {
 
 a,
 a:hover {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 p {
@@ -126,7 +126,7 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
-    color: #65368c;
+    color: #d1c9d8;
 }
 
 
