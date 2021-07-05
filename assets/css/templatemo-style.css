@@ -367,14 +367,16 @@ button:hover {
 /* Left & Right Post */
 
 .right-image-post {
-    margin-top: 60px;
-    padding-top: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     border-top: 2px solid rgba(250, 250, 250, 0.1);
 }
 
 .left-image img,
 .right-image img {
-    border-radius: 5px;
+    border-radius: 12px;
 }
 
 .right-image-post h4,
