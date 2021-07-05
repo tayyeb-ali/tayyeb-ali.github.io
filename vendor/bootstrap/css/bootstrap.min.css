@@ -173,7 +173,7 @@ a {
 }
 
 a:hover {
-    color: #ad99ccc7;
+    color: teal;
     text-decoration: underline
 }
 
