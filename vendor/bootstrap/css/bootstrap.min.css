@@ -129,12 +129,15 @@ ul ul {
 }
 
 dt {
-    font-weight: 700
+    display: block;
+    clear: both;
+    width: 150px;
+    float: left;
 }
 
 dd {
-    margin-bottom: .5rem;
-    margin-left: 0
+    display: block;
+    float: left;
 }
 
 blockquote {
