@@ -326,8 +326,8 @@ html {
 .white-button a {
     display: inline-block;
     padding: 12px 20px;
-    background-color: white;
-    color: teal;
+    background-color: teal;
+    color: white;
     font-size: 13px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -336,8 +336,8 @@ html {
 }
 
 .white-button a:hover {
-    background-color: teal;
-    color: white;
+    background-color: white;
+    color: teal;
 }
 
 button {
@@ -351,14 +351,15 @@ button {
     text-transform: uppercase;
     transition: all 0.5s;
     border: none;
+    border-radius: 12px;
     outline: none;
     cursor: pointer;
 }
 
 button:hover {
     outline: none;
-    background-color: teal;
-    color: white;
+    background-color: white;
+    color: teal;
 }
 
 
