@@ -104,7 +104,7 @@ html {
 }
 
 .main-nav li:last-child a {
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid rgb(0, 64, 64);
 }
 
 .main-nav li {
