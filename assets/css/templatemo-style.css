@@ -396,41 +396,41 @@ button:hover {
 }
 
 
-/* Services */
+/* Skills */
 
-.my-services .col-md-6 {
+.my-skills .col-md-6 {
     padding-left: 5px;
     padding-right: 5px;
 }
 
-.service-item {
+.skills-item {
     margin-bottom: 10px;
     padding: 30px;
     background-color: rgba(250, 250, 250, 0.1);
     transition: all 0.5s;
 }
 
-.service-item h4 {
+.skills-item h4 {
     transition: all 0.5s;
 }
 
-.service-item p {
+.skills-item p {
     transition: all 0.5s;
 }
 
-.service-item:hover {
+.skills-item:hover {
     background-color: rgba(250, 250, 250, 1);
 }
 
-.service-item:hover h4 {
+.skills-item:hover h4 {
     color: #1e1e1e;
 }
 
-.service-item:hover p {
+.skills-item:hover p {
     color: #4a4a4a;
 }
 
-.service-item .service-icon {
+.skills-item .skills-icon {
     width: 70px;
     height: 70px;
     display: inline-block;
@@ -440,35 +440,35 @@ button:hover {
     transition: all 0.5s;
 }
 
-.service-item .first-service-icon {
+.skills-item .first-skills-icon {
     background-image: url(../images/first-white-icon.png);
 }
 
-.service-item:hover .first-service-icon {
+.skills-item:hover .first-skills-icon {
     background-image: url(../images/first-main-icon.png);
 }
 
-.service-item .second-service-icon {
+.skills-item .second-skills-icon {
     background-image: url(../images/second-white-icon.png);
 }
 
-.service-item:hover .second-service-icon {
+.skills-item:hover .second-skills-icon {
     background-image: url(../images/second-main-icon.png);
 }
 
-.service-item .third-service-icon {
+.skills-item .third-skills-icon {
     background-image: url(../images/third-white-icon.png);
 }
 
-.service-item:hover .third-service-icon {
+.skills-item:hover .third-skills-icon {
     background-image: url(../images/third-main-icon.png);
 }
 
-.service-item .fourth-service-icon {
+.skills-item .fourth-skills-icon {
     background-image: url(../images/fourth-white-icon.png);
 }
 
-.service-item:hover .fourth-service-icon {
+.skills-item:hover .fourth-skills-icon {
     background-image: url(../images/fourth-main-icon.png);
 }
 
